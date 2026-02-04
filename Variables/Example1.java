@@ -12,7 +12,6 @@ public class Example1 {
         System.out.println(First_Name + Last_Name); //LimitzMain
         
         //Boolean
-        
         boolean First_Arg = true;
         boolean Second_Arg = false;
         
