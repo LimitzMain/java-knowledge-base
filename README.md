@@ -1,4 +1,4 @@
-# Java Basics & Intro to Object-Oriented Programming
+# Java Basics by Limitz
 
 Welcome to this **Java learning** repository, designed to help beginners practice **core Java concepts** while following the **Object-Oriented Programming (OOP)** subject.
 
